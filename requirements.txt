@@ -1,0 +1,15 @@
+torch
+torchaudio
+torchvision
+torch-summary
+lightning
+clearml
+simple-parsing
+matplotlib
+rich-logger
+tqdm
+timm
+onnx
+onnxruntime
+deepspeed
+opencv-python
